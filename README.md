@@ -1,0 +1,63 @@
+# Introduction
+
+[![Travis build status](https://api.travis-ci.org/perdian/awesome-macos-applications.svg)](https://travis-ci.org/perdian/awesome-macos-applications)
+[![License](https://img.shields.io/:license-mit-blue.svg)](https://badges.mit-license.org/)
+
+Instead of having several documents and lists lying around in which to keep track of all the applications that I use on both my personal and professional machine I decided to adopt the "awesome list" format and dump my notes to the world wide web.
+
+This list is my personal collection of what an awesome macOS applications means to me - it's most likely not transferable 1:1 to anyone else, but if you find it useful and get an idea of an application you didn't know about I'm happy to help :-)
+
+# Applications
+
+## System Utilities
+* **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Disable the screensaver and hibernation. 
+* **BetterTouchTool** ([Website](https://folivora.ai/downloads)) - Keyboard customization. 💵 7,50 USD
+* **Contexts** ([Website](https://contexts.co/)) - Program switcher (ALT-TAB replacement). 💵 10 USD
+* **Fluor** ([Website](https://github.com/Pyroh/Fluor)) - Configure applications to use function keys instead of macOS shortcuts. 
+* **f.lux** ([Website](https://justgetflux.com/news/pages/macquickstart/)) - Adjust color temperature.
+* **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Menubar calendar.
+* **The Unarchiver** ([Website](https://theunarchiver.com/) ▪ [App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353)) - ZIP extractor.
+
+## Security and Privacy
+* **1Password** ([Website](https://1password.com/downloads/mac/)) - Password manager. 💵 65 USD
+
+## Productivity
+* **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
+* **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 53 EUR
+
+## Multimedia
+* **Airflow** ([Website](https://airflow.app/)) - Apple TV connector and player. 💶 19 EUR
+* **Clementine** ([Website](https://www.clementine-player.org/)) - Audio player.
+* **Cog** ([Website](https://kode54.net/cog/)) - Audio player.
+* **Monosnap** ([Website](https://monosnap.com/) ▪ [App Store](https://apps.apple.com/de/app/monosnap-screenshot-editor/id540348655)) - Screenshot creator.
+* **Open Broadcaster Software** ([Website](https://obsproject.com/)) - Screen and video Recording.
+* **VLC** ([Website](https://www.videolan.org/vlc/)) - Media Player.
+* **Webcam Settings** ([App Store](https://apps.apple.com/de/app/webcam-settings/id533696630)) - Configure webcam settings. 💶 9 EUR
+
+## World Wide Web, Cloud Storage and Communication
+* **Dropbox** ([Website](https://www.dropbox.com/downloading)) - File synchronization client.
+* **FileZilla** ([Website](https://filezilla-project.org/)) - FTP and SFTP client.
+* **Firefox** ([Website](https://www.mozilla.org/de/firefox/new/)) - Webbrowser.
+* **Skype** ([Website](https://en.wikipedia.org/wiki/Skype)) - Messenger.
+
+## Misc
+* **iExplorer** ([Website](https://macroplant.com/iexplorer)) - iOS synchronizer.
+
+## Command Line
+* **iTerm2** ([Website](https://iterm2.com/index.html)) - Terminal and SSH client.
+* **Dotfiles** ([Website](https://github.com/perdian/dotfiles)) - Personal dotfiles.
+
+## Development
+* **Dash** ([Website](https://kapeli.com/dash)) - Documentation hub. 💶 33 EUR
+* **Docker** ([Website](https://docs.docker.com/docker-for-mac/install/)) - Container virtualization.
+* **Postman** ([Website](https://www.getpostman.com/)) - API client.
+
+# Parking space
+
+Applications that I used in the but are currently not installed or simply a place to put applications I've read about and may want to revisit at some point.
+
+* **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
+* **Hazel** ([Website](https://www.noodlesoft.com/)) - Automater, reacts to changes on the file system. 💵 32 USD
+* **iFunBox** ([Website](http://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
+* **ScreenCommander** ([Article](https://lifehacker.com/screen-commander-for-mac-blanks-out-second-monitors-wit-1793453593)) - Blank non-main screens.
+* **TripMode** ([Website](https://www.tripmode.ch/)) - Limit network bandwidth for specific applications. 💶 8 EUR
