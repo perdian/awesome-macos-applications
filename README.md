@@ -10,7 +10,7 @@ This list is my personal collection of what an awesome macOS applications means 
 # Applications
 
 ## System Utilities
-* **Alfred** ([Webseite](https://www.alfredapp.com/)) - Launcher. 💷 27 GBP (Powerpack)
+* **Alfred** ([Website](https://www.alfredapp.com/)) - Launcher. 💷 27 GBP (Powerpack)
 * **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Disable the screensaver and hibernation. 
 * **BetterTouchTool** ([Website](https://folivora.ai/downloads)) - Keyboard customization. 💵 7,50 USD
 * **Contexts** ([Website](https://contexts.co/)) - Program switcher (ALT-TAB replacement). 💵 10 USD
