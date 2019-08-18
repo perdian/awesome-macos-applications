@@ -10,12 +10,14 @@ This list is my personal collection of what an awesome macOS applications means 
 # Applications
 
 ## System Utilities
+* **Alfred** ([Webseite](https://www.alfredapp.com/)) - Launcher. 💷 27 GBP (Powerpack)
 * **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Disable the screensaver and hibernation. 
 * **BetterTouchTool** ([Website](https://folivora.ai/downloads)) - Keyboard customization. 💵 7,50 USD
 * **Contexts** ([Website](https://contexts.co/)) - Program switcher (ALT-TAB replacement). 💵 10 USD
 * **Fluor** ([Website](https://github.com/Pyroh/Fluor)) - Configure applications to use function keys instead of macOS shortcuts. 
 * **f.lux** ([Website](https://justgetflux.com/news/pages/macquickstart/)) - Adjust color temperature.
 * **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Menubar calendar.
+* **PathFinder** ([Website](https://cocoatech.com/#/)) - File manager. 💵 40 USD
 * **The Unarchiver** ([Website](https://theunarchiver.com/) ▪ [App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353)) - ZIP extractor.
 
 ## Security and Privacy
@@ -44,8 +46,8 @@ This list is my personal collection of what an awesome macOS applications means 
 * **iExplorer** ([Website](https://macroplant.com/iexplorer)) - iOS synchronizer.
 
 ## Command Line
-* **iTerm2** ([Website](https://iterm2.com/index.html)) - Terminal and SSH client.
 * **Dotfiles** ([Website](https://github.com/perdian/dotfiles)) - Personal dotfiles.
+* **iTerm2** ([Website](https://iterm2.com/index.html)) - Terminal and SSH client.
 
 ## Development
 * **Dash** ([Website](https://kapeli.com/dash)) - Documentation hub. 💶 33 EUR
@@ -54,10 +56,12 @@ This list is my personal collection of what an awesome macOS applications means 
 
 # Parking space
 
-Applications that I used in the but are currently not installed or simply a place to put applications I've read about and may want to revisit at some point.
+Applications that I used in the past but are currently not installed and a place to put applications I've read about and may want to revisit at some point.
 
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
 * **Hazel** ([Website](https://www.noodlesoft.com/)) - Automater, reacts to changes on the file system. 💵 32 USD
 * **iFunBox** ([Website](http://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
+* **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
 * **ScreenCommander** ([Article](https://lifehacker.com/screen-commander-for-mac-blanks-out-second-monitors-wit-1793453593)) - Blank non-main screens.
+* **SoundSource** ([Website](https://rogueamoeba.com/soundsource/)) - Volume control per App. 💵 35 USD
 * **TripMode** ([Website](https://www.tripmode.ch/)) - Limit network bandwidth for specific applications. 💶 8 EUR
