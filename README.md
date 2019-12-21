@@ -67,3 +67,4 @@ Applications that I used in the past but are currently not installed and a place
 * **ScreenCommander** ([Article](https://lifehacker.com/screen-commander-for-mac-blanks-out-second-monitors-wit-1793453593)) - Blank non-main screens.
 * **SoundSource** ([Website](https://rogueamoeba.com/soundsource/)) - Volume control per App. 💵 35 USD
 * **TripMode** ([Website](https://www.tripmode.ch/)) - Limit network bandwidth for specific applications. 💶 8 EUR
+* **Yoink** ([Website](https://eternalstorms.at/yoink/mac/)) - Copy & paste file shelf. 💶 9 EUR
