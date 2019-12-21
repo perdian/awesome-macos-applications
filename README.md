@@ -11,10 +11,10 @@ This list is my personal collection of what an awesome macOS applications means 
 
 ## System Utilities
 * **Alfred** ([Website](https://www.alfredapp.com/)) - Launcher. 💷 27 GBP (Powerpack)
-* **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Disable the screensaver and hibernation. 
+* **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Disable the screensaver and hibernation.
 * **BetterTouchTool** ([Website](https://folivora.ai/downloads)) - Keyboard customization. 💵 7,50 USD
 * **Contexts** ([Website](https://contexts.co/)) - Program switcher (ALT-TAB replacement). 💵 10 USD
-* **Fluor** ([Website](https://github.com/Pyroh/Fluor)) - Configure applications to use function keys instead of macOS shortcuts. 
+* **Fluor** ([Website](https://github.com/Pyroh/Fluor)) - Configure applications to use function keys instead of macOS shortcuts.
 * **f.lux** ([Website](https://justgetflux.com/news/pages/macquickstart/)) - Adjust color temperature.
 * **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Menubar calendar.
 * **PathFinder** ([Website](https://cocoatech.com/#/)) - File manager. 💵 40 USD
@@ -59,6 +59,7 @@ This list is my personal collection of what an awesome macOS applications means 
 Applications that I used in the past but are currently not installed and a place to put applications I've read about and may want to revisit at some point.
 
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
+* **Dato** ([Website](https://sindresorhus.com/dato)) - Menu bar clock replacement. 💶 2 EUR
 * **Hazel** ([Website](https://www.noodlesoft.com/)) - Automater, reacts to changes on the file system. 💵 32 USD
 * **iFunBox** ([Website](http://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
