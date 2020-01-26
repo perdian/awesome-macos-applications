@@ -40,9 +40,9 @@ This list is my personal collection of what an awesome macOS applications means 
 
 ## World Wide Web, Cloud Storage and Communication
 * **Dropbox** ([Website](https://www.dropbox.com/downloading)) - File synchronization client.
-* **FileZilla** ([Website](https://filezilla-project.org/)) - FTP and SFTP client.
 * **Firefox** ([Website](https://www.mozilla.org/de/firefox/new/)) - Webbrowser.
 * **Skype** ([Website](https://en.wikipedia.org/wiki/Skype)) - Messenger.
+* **Transmit** ([Website](https://panic.com/transmit/)) - FTP, SFTP & other storage client. 💵 45 USD
 
 ## Misc
 * **iExplorer** ([Website](https://macroplant.com/iexplorer)) - iOS synchronizer.
