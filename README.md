@@ -27,6 +27,7 @@ This list is my personal collection of what an awesome macOS applications means 
 ## Productivity
 * **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
 * **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 53 EUR
+* **Todoist** ([Website](https://todoist.com/)) - Task management.
 
 ## Multimedia
 * **Airflow** ([Website](https://airflow.app/)) - Apple TV connector and player. 💶 19 EUR
@@ -40,9 +41,13 @@ This list is my personal collection of what an awesome macOS applications means 
 
 ## World Wide Web, Cloud Storage and Communication
 * **Dropbox** ([Website](https://www.dropbox.com/downloading)) - File synchronization client.
-* **Firefox** ([Website](https://www.mozilla.org/de/firefox/new/)) - Webbrowser.
 * **Skype** ([Website](https://en.wikipedia.org/wiki/Skype)) - Messenger.
+* **Spark** ([Website](https://sparkmailapp.com/)) - E-Mail client.
 * **Transmit** ([Website](https://panic.com/transmit/)) - FTP, SFTP & other storage client. 💵 45 USD
+* **Vivaldi** ([Website](https://vivaldi.com/)) - Webbrowser.
+    * Alternative Browsers I use for development and page verification:
+        * **Firefox** ([Website](https://www.mozilla.org/de/firefox/)).
+        * **Opera** ([Website](https://www.opera.com/)).
 
 ## Misc
 * **iExplorer** ([Website](https://macroplant.com/iexplorer)) - iOS synchronizer.
