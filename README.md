@@ -20,7 +20,7 @@ This list is my personal collection of what an awesome macOS applications means 
 * **Fluor** ([Website](https://fluorapp.net)) - Configure applications to use function keys instead of macOS shortcuts.
 * **f.lux** ([Website](https://justgetflux.com/news/pages/macquickstart/)) - Adjust color temperature.
 * **GrandPerspective** ([Website](http://grandperspectiv.sourceforge.net)) - Disk usage analyzer.
-* **Hazel** ([Website](https://www.noodlesoft.com)) - Automation for changes within the file system. 💵 42 USD
+* **Hazel** ([Website](http://www.noodlesoft.com)) - Automation for changes within the file system. 💵 42 USD
 * **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Menubar calendar.
 * **The Unarchiver** ([Website](https://theunarchiver.com/) ▪ [App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353)) - ZIP extractor.
 
@@ -83,9 +83,9 @@ Also place to put applications I've read about and may want to revisit at some p
 
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
 * **Dato** ([Website](https://sindresorhus.com/dato)) - Menu bar clock replacement. 💶 2 EUR
-* **iFunBox** ([Website](http://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
+* **iFunBox** ([Website](https://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
 * **ScreenCommander** ([Article](https://lifehacker.com/screen-commander-for-mac-blanks-out-second-monitors-wit-1793453593)) - Blank non-main screens.
 * **SoundSource** ([Website](https://rogueamoeba.com/soundsource/)) - Volume control per App. 💵 35 USD
-* **TripMode** ([Website](https://www.tripmode.ch/)) - Limit network bandwidth for specific applications. 💶 8 EUR
+* **TripMode** ([Website](https://tripmode.ch/)) - Limit network bandwidth for specific applications. 💶 8 EUR
 * **Yoink** ([Website](https://eternalstorms.at/yoink/mac/)) - Copy & paste file shelf. 💶 9 EUR
