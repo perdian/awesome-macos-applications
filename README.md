@@ -20,7 +20,7 @@ This list is my personal collection of what an awesome macOS applications means 
 * **Fluor** ([Website](https://fluorapp.net)) - Configure applications to use function keys instead of macOS shortcuts.
 * **f.lux** ([Website](https://justgetflux.com/news/pages/macquickstart/)) - Adjust color temperature.
 * **GrandPerspective** ([Website](http://grandperspectiv.sourceforge.net)) - Disk usage analyzer.
-* **Hazel** ([Website](http://www.noodlesoft.com)) - Automation for changes within the file system. 💵 42 USD
+* **Hazel** ([Website](https://www.noodlesoft.com/)) - Automation for changes within the file system. 💵 42 USD
 * **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Menubar calendar.
 * **The Unarchiver** ([Website](https://theunarchiver.com/) ▪ [App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353)) - ZIP extractor.
 

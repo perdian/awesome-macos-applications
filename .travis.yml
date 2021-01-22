@@ -1,8 +1,8 @@
 language: ruby
-rvm: 2.4.1
+rvm: 2.6.6
 before_script: gem install awesome_bot
 script: awesome_bot README.md
 notifications:
   email:
     on_success: change
-    on_failure: change
+    on_failure: always
