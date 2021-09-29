@@ -33,7 +33,6 @@ This list is my personal collection of what an awesome macOS applications means 
 * **Clementine** ([Website](https://www.clementine-player.org/)) - Audio player.
 * **Cog** ([Website](https://kode54.net/cog)) - Audio player.
 * **ColorSlurp** ([Website](https://colorslurp.com/)) - Color picker.
-* **Monosnap** ([Website](https://monosnap.com/) ▪ [App Store](https://apps.apple.com/de/app/monosnap-screenshot-editor/id540348655)) - Screenshot creator.
 * **Open Broadcaster Software** ([Website](https://obsproject.com/)) - Screen and video Recording.
 * **VLC** ([Website](https://www.videolan.org/vlc/)) - Media Player.
 * **Webcam Settings** ([App Store](https://apps.apple.com/de/app/webcam-settings/id533696630)) - Configure webcam settings. 💶 9 EUR
