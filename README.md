@@ -18,7 +18,6 @@ This list is my personal collection of what an awesome macOS applications means 
 * **f.lux** ([Website](https://justgetflux.com/news/pages/macquickstart/)) - Adjust color temperature.
 * **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Menubar calendar.
 * **PathFinder** ([Website](https://cocoatech.com/#/)) - File manager. 💵 40 USD
-* **TaskTab** ([Website](https://fiplab.com/apps/task-tab-for-mac)) - Menu bar task manager.
 * **The Unarchiver** ([Website](https://theunarchiver.com/) ▪ [App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353)) - ZIP extractor.
 
 ## Security and Privacy
