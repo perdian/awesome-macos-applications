@@ -1,7 +1,7 @@
 # Introduction
 
 [![Travis build status](https://api.travis-ci.org/perdian/awesome-macos-applications.svg)](https://travis-ci.org/perdian/awesome-macos-applications)
-[![License](https://img.shields.io/:license-mit-blue.svg)](https://badges.mit-license.org/)
+[![License](https://img.shields.io/:license-mit-blue.svg)](https://www.mit-license.org/)
 
 Instead of having several documents and lists lying around in which to keep track of all the applications that I use on both my personal and professional machines I decided to adopt the "awesome list" format and dump my notes to the world wide web.
 
