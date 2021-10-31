@@ -84,6 +84,7 @@ Also place to put applications I've read about and may want to revisit at some p
 * **Dato** ([Website](https://sindresorhus.com/dato)) - Menu bar clock replacement. 💶 2 EUR
 * **iFunBox** ([Website](https://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
+* **LuLu** ([Website](https://github.com/objective-see/LuLu)) - macOS Firewall.
 * **ScreenCommander** ([Article](https://lifehacker.com/screen-commander-for-mac-blanks-out-second-monitors-wit-1793453593)) - Blank non-main screens.
 * **SoundSource** ([Website](https://rogueamoeba.com/soundsource/)) - Volume control per App. 💵 35 USD
 * **TripMode** ([Website](https://tripmode.ch/)) - Limit network bandwidth for specific applications. 💶 8 EUR
