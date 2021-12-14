@@ -45,6 +45,12 @@ This list is my personal collection of what an awesome macOS applications means 
 * **Spark** ([Website](https://sparkmailapp.com/)) - E-Mail client.
 * **Transmit** ([Website](https://panic.com/transmit/)) - FTP, SFTP (and lots of other transfer protocols) client. 💵 45 USD
 * **Vivaldi** ([Website](https://vivaldi.com/)) - Webbrowser.
+    * Extensions
+        * **Random User-Agent** ([Website](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp)) - Send fake user agents
+        * **Tampermonkey** ([Website](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) - User scripts
+        * **The QR Code Extensions** - ([Website](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb)) - Generate QR codes for URLs
+        * **uBlock Prigin** ([Website](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) - Ad blocker
+        * **Video DownloadHelper** ([Website](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)) - Extract videos from websites
     * Alternative Browsers I use for development and multi-browser page verification:
         * **Firefox** ([Website](https://www.mozilla.org/de/firefox/))
         * **Opera** ([Website](https://www.opera.com/))
@@ -82,6 +88,7 @@ Also place to put applications I've read about and may want to revisit at some p
 
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
 * **Dato** ([Website](https://sindresorhus.com/dato)) - Menu bar clock replacement. 💶 2 EUR
+* **Handbrake** ([Website](https://handbrake.fr)) - Video transcoder
 * **iFunBox** ([Website](https://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
 * **LuLu** ([Website](https://github.com/objective-see/LuLu)) - macOS Firewall.
