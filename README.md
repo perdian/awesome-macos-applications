@@ -27,6 +27,7 @@ This list is my personal collection of what an awesome macOS applications means 
 * **1Password** ([Website](https://1password.com/downloads/mac/)) - Password manager. 💵 65 USD
 
 ## Productivity
+* **ClickUp** ([Website](https://clickup.com)) - Task management.
 * **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
 * **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 53 EUR
 * **Todoist** ([Website](https://todoist.com/)) - Task management.
