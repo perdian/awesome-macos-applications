@@ -38,7 +38,7 @@ This list is my personal collection of what an awesome macOS applications means 
 * **ColorSlurp** ([Website](https://colorslurp.com/)) - Color picker.
 * **Open Broadcaster Software** ([Website](https://obsproject.com/)) - Screen and video Recording.
 * **VLC** ([Website](https://www.videolan.org/vlc/)) - Media Player.
-* **Webcam Settings** ([App Store](https://apps.apple.com/de/app/webcam-settings/id533696630)) - Configure webcam settings. 💶 9 EUR
+* **Camera Controller** ([Website](https://github.com/Itaybre/CameraController)) - Configure webcam settings.
 
 ## World Wide Web, Cloud Storage and Communication
 * **Dropbox** ([Website](https://www.dropbox.com/downloading)) - File synchronization client.
