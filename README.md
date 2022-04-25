@@ -56,7 +56,7 @@ This list is my personal collection of what an awesome macOS applications means 
         * **Opera** ([Website](https://www.opera.com/))
 
 ## Misc
-* **iExplorer** ([Website](https://macroplant.com/iexplorer)) - macOS to iOS synchronizer.
+* **iFunBox** ([Website](https://www.i-funbox.com/)) - macOS to iOS synchronizer.
 
 ## Command Line
 * **Dotfiles** ([Website](https://github.com/perdian/dotfiles)) - Personal dotfiles.
@@ -89,7 +89,6 @@ Also place to put applications I've read about and may want to revisit at some p
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
 * **Dato** ([Website](https://sindresorhus.com/dato)) - Menu bar clock replacement. 💶 2 EUR
 * **Handbrake** ([Website](https://handbrake.fr)) - Video transcoder
-* **iFunBox** ([Website](https://www.i-funbox.com/)) - iOS synchronizer, alternative to iExplorer.
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
 * **LuLu** ([Website](https://github.com/objective-see/LuLu)) - macOS Firewall.
 * **ScreenCommander** ([Article](https://lifehacker.com/screen-commander-for-mac-blanks-out-second-monitors-wit-1793453593)) - Blank non-main screens.
