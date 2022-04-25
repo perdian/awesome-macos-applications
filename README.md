@@ -53,6 +53,7 @@ This list is my personal collection of what an awesome macOS applications means 
         * **uBlock Prigin** ([Website](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) - Ad blocker
         * **Video DownloadHelper** ([Website](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)) - Extract videos from websites
     * Alternative Browsers I use for development and multi-browser page verification:
+        * **Edge** ([Website](https://www.microsoft.com/de-de/edge))
         * **Firefox** ([Website](https://www.mozilla.org/de/firefox/))
         * **Opera** ([Website](https://www.opera.com/))
 
