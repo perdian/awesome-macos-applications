@@ -30,7 +30,6 @@ This list is my personal collection of what an awesome macOS applications means 
 * **ClickUp** ([Website](https://clickup.com)) - Task management.
 * **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
 * **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 53 EUR
-* **Todoist** ([Website](https://todoist.com/)) - Task management.
 
 ## Multimedia
 * **Airflow** ([Website](https://airflow.app/)) - Apple TV connector and player. 💶 19 EUR
