@@ -60,7 +60,7 @@ This list is my personal collection of what an awesome macOS applications means 
 * **iFunBox** ([Website](https://www.i-funbox.com/)) - macOS to iOS synchronizer.
 
 ## Command Line
-* **Dotfiles** ([Website](https://github.com/perdian/dotfiles)) - Personal dotfiles.
+* **Dotfiles** ([Website](https://github.com/perdian/dotfiles)) - My personal dotfiles.
 * **iTerm2** ([Website](https://iterm2.com/index.html)) - Terminal and SSH client.
 
 ## Development
