@@ -88,11 +88,8 @@ Applications that I used in the past but are currently not installed.
 Also place to put applications I've read about and may want to revisit at some point.
 
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
-* **Dato** ([Website](https://sindresorhus.com/dato)) - Menu bar clock replacement. 💶 2 EUR
 * **Handbrake** ([Website](https://handbrake.fr)) - Video transcoder
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
 * **LuLu** ([Website](https://github.com/objective-see/LuLu)) - macOS Firewall.
-* **ScreenCommander** ([Article](https://lifehacker.com/screen-commander-for-mac-blanks-out-second-monitors-wit-1793453593)) - Blank non-main screens.
 * **SoundSource** ([Website](https://rogueamoeba.com/soundsource/)) - Volume control per App. 💵 35 USD
 * **TripMode** ([Website](https://tripmode.ch/)) - Limit network bandwidth for specific applications. 💶 8 EUR
-* **Yoink** ([Website](https://eternalstorms.at/yoink/mac/)) - Copy & paste file shelf. 💶 9 EUR
