@@ -59,14 +59,18 @@ This list is my personal collection of what an awesome macOS applications means 
 ## Misc
 * **iFunBox** ([Website](https://www.i-funbox.com/)) - macOS to iOS synchronizer.
 
-## Command Line
+## Terminal and Command Line
 * **Dotfiles** ([Website](https://github.com/perdian/dotfiles)) - My personal dotfiles.
 * **iTerm2** ([Website](https://iterm2.com/index.html)) - Terminal and SSH client.
 
 ## Development
-* **Dash** ([Website](https://kapeli.com/dash)) - Documentation hub. 💵 30 USD
 * **Docker Desktop** ([Website](https://docs.docker.com/docker-for-mac/install/)) - Container virtualization.
 * **Eclipse** ([Website](https://download.eclipse.org/eclipse/downloads/)) - Java IDE.
+    * Plugin update sites
+        * AnyEdit: https://raw.githubusercontent.com/iloveeclipse/plugins/latest/
+        * Chrome theme: http://eclipse.jeeeyul.net/update/
+        * PlantUML: http://hallvard.github.io/plantuml/
+        * Spring Tools: https://download.springsource.com/release/TOOLS/sts4/update/e4.23/
 * **Lens** ([Website](https://k8slens.dev)) - Kubernetes IDE.
 * **Mockoon** ([Website](https://mockoon.com/#download)) - Mock API servers locally.
 * **Postman** ([Website](https://www.postman.com/downloads/)) - API client.
@@ -77,8 +81,6 @@ This list is my personal collection of what an awesome macOS applications means 
 
 Applications that I used in the past but have been replaced by other (better) applications. The list serves as sort of fallback, if the replacement should become unavailable
 
-* **Clementine** ([Website](https://www.clementine-player.org/)) - Audio player. \
-  *Replaced by Cog.*
 * **PathFinder** ([Website](https://cocoatech.com/#/)) - File manager. 💵 40 USD. \
   *Replaced by the regular macOS Finder, I simply didn't need the additional features from PathFinder any more.*
 
@@ -88,6 +90,7 @@ Applications that I used in the past but are currently not installed.
 Also place to put applications I've read about and may want to revisit at some point.
 
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
+* **Dash** ([Website](https://kapeli.com/dash)) - Documentation hub. 💵 30 USD
 * **Handbrake** ([Website](https://handbrake.fr)) - Video transcoder
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
 * **LuLu** ([Website](https://github.com/objective-see/LuLu)) - macOS Firewall.
