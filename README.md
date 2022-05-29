@@ -76,6 +76,7 @@ This list is my personal collection of what an awesome macOS applications means 
 * **Postman** ([Website](https://www.postman.com/downloads/)) - API client.
 * **RubyMine** ([Website](https://www.jetbrains.com/ruby/)) - Ruby IDE. 💵 71 USD per year
 * **SQuirreL SQL** ([Website](http://squirrel-sql.sourceforge.net)) - Database client.
+* **DBeaver** ([Website](https://dbeaver.io/download/)) - Database client.
 
 # Historic
 
