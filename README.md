@@ -41,6 +41,7 @@ This list is my personal collection of what an awesome macOS applications means 
 
 ## World Wide Web, Cloud Storage and Communication
 * **Dropbox** ([Website](https://www.dropbox.com/downloading)) - File synchronization client.
+    * **Maestral** ([Website](https://maestral.app/)) - Alternative Open Source Docker client.
 * **Skype** ([Website](https://en.wikipedia.org/wiki/Skype)) - Messenger.
 * **Spark** ([Website](https://sparkmailapp.com/)) - E-Mail client.
 * **Transmit** ([Website](https://panic.com/transmit/)) - FTP, SFTP (and lots of other transfer protocols) client. 💵 45 USD
