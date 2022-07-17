@@ -9,7 +9,7 @@ This list is my personal collection of what an awesome macOS applications means 
 # Applications
 
 ## System Utilities
-* **Alfred** ([Website](https://www.alfredapp.com/)) - Launcher. 💷 27 GBP (Powerpack)
+* **Alfred** ([Website](https://www.alfredapp.com/)) - Launcher. 💷 34 GBP (Powerpack)
     * Additional workflows:
       [GitHub repos](https://github.com/edgarjs/alfred-github-repos),
       [Network tools](https://github.com/fniephaus/alfred-network)
