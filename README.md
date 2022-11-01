@@ -27,9 +27,8 @@ This list is my personal collection of what an awesome macOS applications means 
 * **1Password** ([Website](https://1password.com/downloads/mac/)) - Password manager. 💵 65 USD
 
 ## Productivity
-* **ClickUp** ([Website](https://clickup.com)) - Task management.
-* **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
 * **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 53 EUR
+* **VisualStudio Code* ([Website](https://code.visualstudio.com/)) - Text editor and IDE.
 
 ## Multimedia
 * **Airflow** ([Website](https://airflow.app/)) - Apple TV connector and player. 💶 19 EUR
@@ -92,8 +91,9 @@ Applications that I used in the past but are currently not installed.
 Also place to put applications I've read about and may want to revisit at some point.
 
 * **AudioHighjack** ([Website](https://www.rogueamoeba.com/audiohijack/)) - Record any audio. 💵 71 USD
+* **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
 * **Dash** ([Website](https://kapeli.com/dash)) - Documentation hub. 💵 30 USD
-* **Handbrake** ([Website](https://handbrake.fr)) - Video transcoder
+* **Handbrake** ([Website](https://handbrake.fr)) - Video transcoder.
 * **LittleSnitch** ([Website](https://www.obdev.at/products/littlesnitch/index.html)) - Network watcher. 💶 45 EUR
 * **LuLu** ([Website](https://github.com/objective-see/LuLu)) - macOS Firewall.
 * **SoundSource** ([Website](https://rogueamoeba.com/soundsource/)) - Volume control per App. 💵 35 USD
