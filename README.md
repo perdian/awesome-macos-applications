@@ -51,6 +51,7 @@ This list is my personal collection of what an awesome macOS applications means 
         * **The QR Code Extensions** - ([Website](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb)) - Generate QR codes for URLs
         * **uBlock Origin** ([Website](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) - Ad blocker
         * **Video DownloadHelper** ([Website](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)) - Extract videos from websites
+        * **Styles** ([Website](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)) - Add custom CSS for any website
     * Alternative Browsers I use for development and multi-browser page verification:
         * **Edge** ([Website](https://www.microsoft.com/de-de/edge))
         * **Firefox** ([Website](https://www.mozilla.org/de/firefox/))
