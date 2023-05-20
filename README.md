@@ -28,7 +28,7 @@ This list is my personal collection of what an awesome macOS applications means 
 
 ## Productivity
 * **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 53 EUR
-* **VisualStudio Code* ([Website](https://code.visualstudio.com/)) - Text editor and IDE.
+* **VisualStudio Code** ([Website](https://code.visualstudio.com/)) - Text editor and IDE.
 
 ## Multimedia
 * **Airflow** ([Website](https://airflow.app/)) - Apple TV connector and player. 💶 19 EUR
@@ -52,6 +52,7 @@ This list is my personal collection of what an awesome macOS applications means 
         * **uBlock Origin** ([Website](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) - Ad blocker
         * **Video DownloadHelper** ([Website](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)) - Extract videos from websites
         * **Styles** ([Website](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)) - Add custom CSS for any website
+        * **1Password** ([Website](https://chrome.google.com/webstore/detail/1password-beta-%E2%80%93-password/khgocmkkpikpnmmkgmdnfckapcdkgfaf/)) - Integrate 1Password password manager
     * Alternative Browsers I use for development and multi-browser page verification:
         * **Edge** ([Website](https://www.microsoft.com/de-de/edge))
         * **Firefox** ([Website](https://www.mozilla.org/de/firefox/))
@@ -66,6 +67,7 @@ This list is my personal collection of what an awesome macOS applications means 
 
 ## Development
 * **Docker Desktop** ([Website](https://docs.docker.com/docker-for-mac/install/)) - Container virtualization.
+* **IntelliJ IDEA** ([Website](https://www.jetbrains.com/idea/)) - Java IDE.
 * **Eclipse** ([Website](https://download.eclipse.org/eclipse/downloads/)) - Java IDE.
     * Plugin update sites
         * AnyEdit: https://raw.githubusercontent.com/iloveeclipse/plugins/latest/
@@ -75,7 +77,6 @@ This list is my personal collection of what an awesome macOS applications means 
 * **Lens** ([Website](https://k8slens.dev)) - Kubernetes IDE.
 * **Mockoon** ([Website](https://mockoon.com/#download)) - Mock API servers locally.
 * **Postman** ([Website](https://www.postman.com/downloads/)) - API client.
-* **RubyMine** ([Website](https://www.jetbrains.com/ruby/)) - Ruby IDE. 💵 71 USD per year
 * **SQuirreL SQL** ([Website](http://squirrel-sql.sourceforge.net)) - Database client.
 * **DBeaver** ([Website](https://dbeaver.io/download/)) - Database client.
 
