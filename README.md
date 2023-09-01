@@ -40,9 +40,8 @@ This list is my personal collection of what an awesome macOS applications means 
 
 ## World Wide Web, Cloud Storage and Communication
 * **Dropbox** ([Website](https://www.dropbox.com/downloading)) - File synchronization client.
-    * **Maestral** ([Website](https://maestral.app/)) - Alternative Open Source Docker client.
+    * **Maestral** ([Website](https://maestral.app/)) - Alternative Open Source Dropbox client.
 * **Skype** ([Website](https://en.wikipedia.org/wiki/Skype)) - Messenger.
-* **Spark** ([Website](https://sparkmailapp.com/)) - E-Mail client.
 * **Transmit** ([Website](https://panic.com/transmit/)) - FTP, SFTP (and lots of other transfer protocols) client. 💵 45 USD
 * **Vivaldi** ([Website](https://vivaldi.com/)) - Webbrowser.
     * Extensions
@@ -66,17 +65,13 @@ This list is my personal collection of what an awesome macOS applications means 
 * **iTerm2** ([Website](https://iterm2.com/index.html)) - Terminal and SSH client.
 
 ## Development
-* **Docker Desktop** ([Website](https://docs.docker.com/docker-for-mac/install/)) - Container virtualization.
 * **IntelliJ IDEA** ([Website](https://www.jetbrains.com/idea/)) - Java IDE.
-* **Eclipse** ([Website](https://download.eclipse.org/eclipse/downloads/)) - Java IDE.
-    * Plugin update sites
-        * AnyEdit: https://raw.githubusercontent.com/iloveeclipse/plugins/latest/
-        * Chrome theme: http://eclipse.jeeeyul.net/update/
-        * PlantUML: http://hallvard.github.io/plantuml/
-        * Spring Tools: https://download.springsource.com/release/TOOLS/sts4/update/e4.23/
 * **Lens** ([Website](https://k8slens.dev)) - Kubernetes IDE.
 * **Mockoon** ([Website](https://mockoon.com/#download)) - Mock API servers locally.
+* **Podman Desktop** ([Website](https://podman-desktop.io)) Alternative container runtime.
+    * [Emulate Docker with Podman](https://podman-desktop.io/docs/migrating-from-docker/emulating-docker-cli-with-podman)
 * **Postman** ([Website](https://www.postman.com/downloads/)) - API client.
+* **Rancher Desktop** ([Website](https://rancherdesktop.io)) - Container virtualization (drop-in replacement for Docker Desktop).
 * **SQuirreL SQL** ([Website](http://squirrel-sql.sourceforge.net)) - Database client.
 * **DBeaver** ([Website](https://dbeaver.io/download/)) - Database client.
 
@@ -86,6 +81,15 @@ Applications that I used in the past but have been replaced by other (better) ap
 
 * **PathFinder** ([Website](https://cocoatech.com/#/)) - File manager. 💵 40 USD. \
   *Replaced by the regular macOS Finder, I simply didn't need the additional features from PathFinder any more.*
+* **Eclipse** ([Website](https://download.eclipse.org/eclipse/downloads/)) - Java IDE. \
+  *Replaced by IntelliJ IDEA (like most of the world)*
+    * Plugin update sites
+        * AnyEdit: https://raw.githubusercontent.com/iloveeclipse/plugins/latest/
+        * Chrome theme: http://eclipse.jeeeyul.net/update/
+        * PlantUML: http://hallvard.github.io/plantuml/
+        * Spring Tools: https://download.springsource.com/release/TOOLS/sts4/update/e4.23/
+* **Spark** ([Website](https://sparkmailapp.com/)) - E-Mail client. \
+  *Switched to web interfaces*
 
 # Parking space
 
