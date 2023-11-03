@@ -71,7 +71,6 @@ This list is my personal collection of what an awesome macOS applications means 
 * **Podman Desktop** ([Website](https://podman-desktop.io)) Alternative container runtime.
     * [Emulate Docker with Podman](https://podman-desktop.io/docs/migrating-from-docker/emulating-docker-cli-with-podman)
 * **Postman** ([Website](https://www.postman.com/downloads/)) - API client.
-* **Rancher Desktop** ([Website](https://rancherdesktop.io)) - Container virtualization (drop-in replacement for Docker Desktop).
 * **SQuirreL SQL** ([Website](http://squirrel-sql.sourceforge.net)) - Database client.
 * **DBeaver** ([Website](https://dbeaver.io/download/)) - Database client.
 
