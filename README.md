@@ -21,6 +21,7 @@ This list is my personal collection of what an awesome macOS applications means 
 * **GrandPerspective** ([Website](http://grandperspectiv.sourceforge.net)) - Disk usage analyzer.
 * **Hazel** ([Website](https://www.noodlesoft.com/)) - Automation for changes within the file system. 💵 42 USD
 * **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Menubar calendar.
+* **MeetingBar** ([Website](https://meetingbar.app)) - Show meetings in menubar.
 * **The Unarchiver** ([Website](https://theunarchiver.com/) ▪ [App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353)) - ZIP extractor.
 
 ## Security and Privacy
