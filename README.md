@@ -66,7 +66,7 @@ This list is my personal collection of what an awesome macOS application means t
 
 ## Development
 * **IntelliJ IDEA** ([Website](https://www.jetbrains.com/idea/)) - Java IDE.
-* **Lens** ([Website](https://k8slens.dev)) - Kubernetes IDE.
+* **OpenLens** ([Website](https://flathub.org/de/apps/dev.k8slens.OpenLens)) - Kubernetes IDE.
 * **Mockoon** ([Website](https://mockoon.com/#download)) - Mock API servers locally.
 * **Postman** ([Website](https://www.postman.com/downloads/)) - API client.
 * **Rancher Desktop** ([Website](https://rancherdesktop.io)) - Docker desktop replacement.
