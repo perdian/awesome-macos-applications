@@ -1,0 +1,13 @@
+name: Linting
+on: [push]
+
+jobs:
+
+  verify-markdown:
+    runs-on: ubuntu-latest
+    container:
+      image: registry.gitlab.com/pipeline-components/markdownlint-cli2:latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |-
+          markdownlint-cli2 *.md

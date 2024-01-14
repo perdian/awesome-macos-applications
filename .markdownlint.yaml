@@ -1,0 +1,6 @@
+MD013: false    # /line-length
+MD014: false    # /commands-show-output
+MD024: false    # /no-duplicate-heading
+MD033: false    # /no-inline-html
+MD040: false    # /fenced-code-language
+MD045: false    # /no-alt-text
