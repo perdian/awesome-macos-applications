@@ -2,6 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/:license-mit-blue.svg)](https://www.mit-license.org/)
+[![lint](https://github.com/perdian/awesome-macos-applications/actions/workflows/lint.yml/badge.svg)](https://github.com/perdian/awesome-macos-applications/actions/workflows/lint.yml)
 
 My personal collection of macOS applications that I find useful.
 
