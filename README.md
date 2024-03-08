@@ -61,7 +61,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
     - **uBlock Origin** ([Website](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) - Ad blocker
     - **Video DownloadHelper** ([Website](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)) - Extract videos from websites
   - Alternative Browsers I use for development and multi-browser page verification:
-    - **Edge** ([Website](https://www.microsoft.com/de-de/edge))
+    - **Brave** ([Website](https://brave.com/))
     - **Firefox** ([Website](https://www.mozilla.org/de/firefox/))
     - **Opera** ([Website](https://www.opera.com/))
 
