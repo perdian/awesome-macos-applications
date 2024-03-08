@@ -44,6 +44,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 - **Open Broadcaster Software** ([Website](https://obsproject.com/)) - Screen broadcaster.
 - **VLC** ([Website](https://www.videolan.org/vlc/)) - Media Player.
 - **Camera Controller** ([Website](https://github.com/Itaybre/CameraController)) - Configure webcam settings.
+- **Kap** ([Website](https://getkap.co)) - Screen recorder.
 
 ### World Wide Web, Cloud Storage and Communication
 
