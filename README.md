@@ -18,6 +18,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
     [Network tools](https://github.com/fniephaus/alfred-network)
 - **AltTab** ([Website](https://alt-tab-macos.netlify.app)) - Better application switcher (ALT-TAB replacement).
 - **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Prevents the screensaver and hibernation.
+- **BetterMouse** ([Website](https://better-mouse.com)) - Mouse Manager. 💵 8 USD
 - **BetterTouchTool** ([Website](https://folivora.ai/downloads)) - Keyboard customization. 💵 10 USD
 - **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
 - **Fluor** ([Website](https://github.com/Pyroh/Fluor)) - Configure applications to use function keys instead of macOS special keys.
@@ -81,6 +82,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 - **OpenLens** ([Website](https://flathub.org/de/apps/dev.k8slens.OpenLens)) - Kubernetes IDE.
 - **Postman** ([Website](https://www.postman.com/downloads/)) - API client.
 - **Rancher Desktop** ([Website](https://rancherdesktop.io)) - Docker desktop replacement.
+- **UTM** ([Webseite](https://mac.getutm.app)) - Virtualization.
 
 ## Historic
 
