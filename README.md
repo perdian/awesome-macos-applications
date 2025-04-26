@@ -46,7 +46,6 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 - **MakeMKV** ([Website](https://www.makemkv.com)) - DVD/Blu-ray extractor.
 - **Open Broadcaster Software** ([Website](https://obsproject.com/)) - Screen broadcaster.
 - **Camera Controller** ([Website](https://github.com/Itaybre/CameraController)) - Configure webcam settings.
-- **Kap** ([Website](https://getkap.co)) - Screen recorder.
 
 ### World Wide Web, Cloud Storage and Communication
 
@@ -57,7 +56,6 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
   - Extensions
     - **1Password** ([Website](https://chrome.google.com/webstore/detail/1password-beta-%E2%80%93-password/khgocmkkpikpnmmkgmdnfckapcdkgfaf/)) - Integrate 1Password password manager
     - **ArchivePage** ([Website](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia)) - Find archived articles
-    - **Random User-Agent** ([Website](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp)) - Send fake user agents
     - **Styles** ([Website](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)) - Add custom CSS for any website
     - **Tampermonkey** ([Website](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) - User scripts
     - **uBlock Origin** ([Website](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) - Ad blocker
