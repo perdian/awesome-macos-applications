@@ -25,6 +25,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 - **GrandPerspective** ([Website](http://grandperspectiv.sourceforge.net)) - Disk usage analyzer.
 - **Hazel** ([Website](https://www.noodlesoft.com/)) - React to changes within the file system and execute actions. 💵 42 USD
 - **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Calendar for the menubar.
+- **Keka** ([Website](https://www.keka.io/)) - Archiver.
 - **MeetingBar** ([Website](https://meetingbar.app)) - Show upcoming meetings in the menubar.
 
 ### Security and Privacy
