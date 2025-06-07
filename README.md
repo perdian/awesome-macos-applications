@@ -26,7 +26,6 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 - **Hazel** ([Website](https://www.noodlesoft.com/)) - React to changes within the file system and execute actions. 💵 42 USD
 - **Itsycal** ([Website](https://www.mowglii.com/itsycal/)) - Calendar for the menubar.
 - **MeetingBar** ([Website](https://meetingbar.app)) - Show upcoming meetings in the menubar.
-- **The Unarchiver** ([Website](https://theunarchiver.com/) ▪ [App Store](https://apps.apple.com/us/app/the-unarchiver/id425424353)) - Better ZIP extractor.
 
 ### Security and Privacy
 
