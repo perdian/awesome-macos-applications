@@ -64,6 +64,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
     - **Brave** ([Website](https://brave.com/))
     - **Firefox** ([Website](https://www.mozilla.org/de/firefox/))
     - **Opera** ([Website](https://www.opera.com/))
+- **NetNewsWire** ([Website](https://netnewswire.com/)) - RSS Reader
 
 ### Misc
 
