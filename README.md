@@ -83,6 +83,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 - **Rancher Desktop** ([Website](https://rancherdesktop.io)) - Docker desktop replacement.
 - **Sloth** ([Website](https://sveinbjorn.org/sloth)) - Local port and resource allocation watcher.
 - **UTM** ([Webseite](https://mac.getutm.app)) - Virtualization.
+- **LM Studio** ([Website](https://lmstudio.ai)) - Run local AI models.
 
 ## Parking space
 
