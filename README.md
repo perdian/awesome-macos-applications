@@ -35,6 +35,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 ### Productivity
 
 - **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 70 EUR
+- **Numi** ([Website](https://numi.app)) - Calculator and converter.
 
 ### Multimedia
 
