@@ -13,9 +13,8 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 ### System Utilities
 
 - **Alfred** ([Website](https://www.alfredapp.com/)) - Replaces the default macOS spotlight search. 💷 34 GBP (Powerpack)
-  - Additional workflows:
-    [GitHub repos](https://github.com/edgarjs/alfred-github-repos),
-    [Network tools](https://github.com/fniephaus/alfred-network)
+  - [Additional workflows](https://github.com/alfred-workflows/awesome-alfred-workflows):
+    - [Slack](https://github.com/yannickglt/alfred-slack)
 - **AltTab** ([Website](https://alt-tab-macos.netlify.app)) - Better application switcher (ALT-TAB replacement).
 - **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Prevents the screensaver and hibernation.
 - **BetterTouchTool** ([Website](https://folivora.ai/downloads)) - Keyboard customization. 💵 10 USD
