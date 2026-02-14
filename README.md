@@ -56,6 +56,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
   - Extensions
     - **1Password** ([Website](https://chrome.google.com/webstore/detail/1password-beta-%E2%80%93-password/khgocmkkpikpnmmkgmdnfckapcdkgfaf/)) - Integrate 1Password password manager.
     - **ArchivePage** ([Website](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia)) - Find archived articles.
+    - **SingleFile** ([Website](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)) - Download complete websites as single HTML files.
     - **Styles** ([Website](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/)) - Add custom CSS for any website.
     - **Tampermonkey** ([Website](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) - User scripts.
     - **uBlock Origin** ([Website](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)) - Ad blocker.
