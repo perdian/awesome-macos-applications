@@ -33,8 +33,9 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
 
 ### Productivity
 
-- **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping. 💶 70 EUR
+- **Anytype** ([Website](https://anytype.io)) - Note keeping (incl. iOS synchronization).
 - **Numi** ([Website](https://numi.app)) - Calculator and converter.
+- **Scrivener** ([Website](https://www.literatureandlatte.com/scrivener/download)) - Note keeping, everything related to writing. 💶 70 EUR
 
 ### Multimedia
 
