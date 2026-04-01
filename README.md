@@ -17,6 +17,7 @@ It's most likely not transferable 1:1 to anyone else, but if you find it useful 
     - [Slack](https://github.com/yannickglt/alfred-slack)
 - **AltTab** ([Website](https://alt-tab-macos.netlify.app)) - Better application switcher (ALT-TAB replacement).
 - **Amphetamine** ([App Store](https://apps.apple.com/de/app/amphetamine/id937984704)) - Prevents the screensaver and hibernation.
+- **BetterMouse** ([Website](https://better-mouse.com)) - Replacement for the crappy Logitech mouse driver (Honestly, Logitech should be ashamed of their software). 💶 8 EUR
 - **BetterTouchTool** ([Website](https://folivora.ai/downloads)) - Keyboard customization. 💵 10 USD
 - **CotEditor** ([Website](https://coteditor.com/) ▪ [App Store](https://apps.apple.com/app/coteditor/id1024640650)) - Text editor.
 - **Fluor** ([Website](https://github.com/Pyroh/Fluor)) - Configure applications to use function keys instead of macOS special keys.
